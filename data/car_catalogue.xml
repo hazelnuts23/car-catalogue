@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<car_catalogue>
+    <item>
+        <title>2012 Volkswagen CC Sport 1.8 TSI (A) HighSpecs NewFacelift Passat CC Sports</title>
+        <price>RM 79,888</price>
+        <short_description>** (168 HP) 1.8cc TSI TURBOCHARGED WITH DOHC HIGH POWERFUL ENGINE ** DSG 7 SPEED TIPTRONIC
+            WITH PADDLE SHIFT CONTROL ...
+        </short_description>
+        <dealer>Yeow Meng</dealer>
+        <details>
+            <distance></distance>
+            <litre>1.8L</litre>
+            <gear>Automatic</gear>
+            <type>Sedan</type>
+            <location>Selangor</location>
+        </details>
+        <image>
+            <img>images/vw1.jpg</img>
+        </image>
+    </item>
+    <item>
+        <title>2015 Toyota Vellfire 2.5 ZA ZG FULL SPECS 2016 UNREGISTER</title>
+        <price>RM 268,888</price>
+        <short_description>Toyota Vellfire(A)Full Specs ZA Newfacelift 2.5 2015 ***NEW ARRIVAL*** ***VERY FAST STOCK
+            CLEARANCE*** _____________...
+        </short_description>
+        <dealer>Jayee Teh</dealer>
+        <details>
+            <distance></distance>
+            <litre>2.4L</litre>
+            <gear>Automatic</gear>
+            <type>MPV</type>
+            <location>Kuala Lumpur</location>
+        </details>
+        <image>
+            <img>images/vellfire1.jpg</img>
+        </image>
+    </item>
+    <item>
+        <title>2012 Mercedes-Benz C-Class C200 CGI AMG Sport FACELIFT C180 Unregister</title>
+        <price>RM 75,000</price>
+        <short_description>Mercedes Benz C180 CGI (A) AMG SPORT Unregister 2012</short_description>
+        <dealer>Woo Chuen Voon</dealer>
+        <details>
+            <distance></distance>
+            <litre>1.6L</litre>
+            <gear>Automatic</gear>
+            <type>Sedan</type>
+            <location>Kuala Lumpur</location>
+        </details>
+        <image>
+            <img>images/merc1.jpg</img>
+        </image>
+    </item>
+    <item>
+        <title>2012 Proton Preve 1.6 Premium Turbo Navi Push Start Paddle Shift</title>
+        <price>RM 36,800</price>
+        <short_description>Proton Preve 1.6L Premium Turbo Navi Push Start Paddle Shift</short_description>
+        <dealer>Denry Chong</dealer>
+        <details>
+            <distance>50,000 - 54,999 km</distance>
+            <litre>1.6L</litre>
+            <gear>Automatic</gear>
+            <type>SUV</type>
+            <location>Kuala Lumpur</location>
+        </details>
+        <image>
+            <img>images/preve1.jpg</img>
+        </image>
+    </item>
+    <item>
+        <title>2012 Perodua Alza 1.5 (A) EZ One Careful Owner</title>
+        <price>RM 33,800</price>
+        <short_description>Year registered 2012, year model 2011</short_description>
+        <dealer>Boon Ping</dealer>
+        <details>
+            <distance>15,000 - 19,999 km</distance>
+            <litre>1.5L</litre>
+            <gear>Automatic</gear>
+            <type>MPV</type>
+            <location>Kuala Lumpur</location>
+        </details>
+        <image>
+            <img>images/alza1.jpg</img>
+        </image>
+    </item>
+    <item>
+        <title>2012 Audi A4 2.0 TFSI S-Line quattro MEGA SPECS 2013</title>
+        <price>RM 170,888</price>
+        <short_description>Audi A4 (A) 2.0 TFSI Sportback 2012 Unregister Quattro NEWFACELIFT</short_description>
+        <dealer>Jayee Teh</dealer>
+        <details>
+            <distance>25,000 - 29,999 km</distance>
+            <litre>2.0L</litre>
+            <gear>Automatic</gear>
+            <type>Sedan</type>
+            <location>Kuala Lumpur</location>
+        </details>
+        <image>
+            <img>images/audi.jpg</img>
+        </image>
+    </item>
+</car_catalogue>
